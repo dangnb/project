@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\exceptions\\domainexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\abstractions\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\abstractions\\repositories\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\dappers\\repositories\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\dappers\\repositories\\product\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\identity\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\identity\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\identity\\actioninfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\identity\\actioninfunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\mng.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\mng.domain.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\identity\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\identity\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\abstractions\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\abstractions\\entities\\domainentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\entities\\identity\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\entities\\identity\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\dappers\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\dappers\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\dappers\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\dappers\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|d:\\word_space\\home\\product\\src\\mng.domain\\mng.domain\\mng.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{43452460-C35C-448B-AE89-BA6947FF07A0}|MNG.Domain\\MNG.Domain.csproj|solutionrelative:mng.domain\\mng.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F1CE5B-1082-4216-8660-AF9FAC780018}|..\\MNG.Persistence\\MNG.Persistence.csproj|d:\\word_space\\home\\product\\src\\mng.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14C1492-E8C8-48C5-B75F-8C23076969C4}|..\\MNG.Persentation\\MNG.Persentation.csproj|d:\\word_space\\home\\product\\src\\mng.persentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6212B4B8-5E88-4975-9017-C4BE8C225035}|..\\MNG.Infrastructure\\MNG.Infrastructure.csproj|d:\\word_space\\home\\product\\src\\mng.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEFFD077-D2C5-403F-B12A-B99DBD3A08A5}|..\\MNG.Contract\\MNG.Contract.csproj|d:\\word_space\\home\\product\\src\\mng.contract\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1AC0BF1-D600-491E-A603-239CD21DCD22}|..\\MNG.Application\\MNG.Application.csproj|d:\\word_space\\home\\product\\src\\mng.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Abstractions\\Repositories\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Abstractions\\Repositories\\IRepositoryBase.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Abstractions\\Repositories\\IRepositoryBase.cs",
+              "RelativeToolTip": "MNG.Domain\\Abstractions\\Repositories\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:39.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Abstractions\\IUnitOfWork.cs",
+              "RelativeToolTip": "MNG.Domain\\Abstractions\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:45.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Identity\\AppRole.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\AppRole.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:12.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Dappers\\Repositories\\Product\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Dappers\\Repositories\\Product\\IProductRepository.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Dappers\\Repositories\\Product\\IProductRepository.cs",
+              "RelativeToolTip": "MNG.Domain\\Dappers\\Repositories\\Product\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:52.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyReference.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\AssemblyReference.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\AssemblyReference.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\AssemblyReference.cs",
+              "RelativeToolTip": "MNG.Domain\\AssemblyReference.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:52.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "MNG.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:49.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DomainException.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Exceptions\\DomainException.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Exceptions\\DomainException.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Exceptions\\DomainException.cs",
+              "RelativeToolTip": "MNG.Domain\\Exceptions\\DomainException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:47.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "MNG.Domain\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:44.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:18.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\Function.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Identity\\Function.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\Function.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Identity\\Function.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:29.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ActionInFunction.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\ActionInFunction.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Identity\\ActionInFunction.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\ActionInFunction.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Identity\\ActionInFunction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:09.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MNG.Domain",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\MNG.Domain.csproj",
+              "RelativeDocumentMoniker": "MNG.Domain\\MNG.Domain.csproj",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\MNG.Domain.csproj",
+              "RelativeToolTip": "MNG.Domain\\MNG.Domain.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T16:05:29.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DomainEntity.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Abstractions\\Entities\\DomainEntity.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Abstractions\\Entities\\DomainEntity.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Abstractions\\Entities\\DomainEntity.cs",
+              "RelativeToolTip": "MNG.Domain\\Abstractions\\Entities\\DomainEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:25.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MNG.Domain.csproj",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\MNG.Domain.csproj",
+              "RelativeDocumentMoniker": "MNG.Domain\\MNG.Domain.csproj",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\MNG.Domain.csproj",
+              "RelativeToolTip": "MNG.Domain\\MNG.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-25T16:02:21.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Action.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\Action.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Identity\\Action.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\Action.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Identity\\Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:05.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwAMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:35.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\Permission.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Entities\\Identity\\Permission.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Entities\\Identity\\Permission.cs",
+              "RelativeToolTip": "MNG.Domain\\Entities\\Identity\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:32.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Dappers\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Dappers\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Dappers\\IUnitOfWork.cs",
+              "RelativeToolTip": "MNG.Domain\\Dappers\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:03:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Dappers\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "MNG.Domain\\Dappers\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Domain\\MNG.Domain\\Dappers\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "MNG.Domain\\Dappers\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:55.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MNG.Persistence\\Class1.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Persistence\\Class1.cs",
+              "RelativeToolTip": "..\\MNG.Persistence\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:00:43.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Persentation\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MNG.Persentation\\Class1.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Persentation\\Class1.cs",
+              "RelativeToolTip": "..\\MNG.Persentation\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:00:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MNG.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "..\\MNG.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:59:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Contract\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MNG.Contract\\Class1.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Contract\\Class1.cs",
+              "RelativeToolTip": "..\\MNG.Contract\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:58:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Word_Space\\Home\\Product\\src\\MNG.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\MNG.Application\\Class1.cs",
+              "ToolTip": "D:\\Word_Space\\Home\\Product\\src\\MNG.Application\\Class1.cs",
+              "RelativeToolTip": "..\\MNG.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:57:47.124Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

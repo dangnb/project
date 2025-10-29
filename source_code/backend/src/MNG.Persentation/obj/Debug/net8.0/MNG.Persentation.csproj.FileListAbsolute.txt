@@ -1,0 +1,17 @@
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Persentation.deps.json
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Persentation.dll
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Persentation.pdb
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Contract.dll
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Domain.dll
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Contract.pdb
+D:\Word_Space\Home\Product\src\MNG.Persentation\bin\Debug\net8.0\MNG.Domain.pdb
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.csproj.AssemblyReference.cache
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.AssemblyInfoInputs.cache
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.AssemblyInfo.cs
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.csproj.CoreCompileInputs.cache
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Pers.3B467DBF.Up2Date
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.dll
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\refint\MNG.Persentation.dll
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\MNG.Persentation.pdb
+D:\Word_Space\Home\Product\src\MNG.Persentation\obj\Debug\net8.0\ref\MNG.Persentation.dll

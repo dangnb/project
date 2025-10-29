@@ -1,0 +1,17 @@
+D:\Word_Space\Home\Product\src\MNG.Persistence\bin\Debug\net8.0\MNG.Persistence.deps.json
+D:\Word_Space\Home\Product\src\MNG.Persistence\bin\Debug\net8.0\MNG.Persistence.runtimeconfig.json
+D:\Word_Space\Home\Product\src\MNG.Persistence\bin\Debug\net8.0\MNG.Persistence.dll
+D:\Word_Space\Home\Product\src\MNG.Persistence\bin\Debug\net8.0\MNG.Persistence.pdb
+D:\Word_Space\Home\Product\src\MNG.Persistence\bin\Debug\net8.0\MNG.Domain.dll
+D:\Word_Space\Home\Product\src\MNG.Persistence\bin\Debug\net8.0\MNG.Domain.pdb
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.csproj.AssemblyReference.cache
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.AssemblyInfoInputs.cache
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.AssemblyInfo.cs
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.csproj.CoreCompileInputs.cache
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Pers.31AE5BD2.Up2Date
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.dll
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\refint\MNG.Persistence.dll
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.pdb
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\MNG.Persistence.genruntimeconfig.cache
+D:\Word_Space\Home\Product\src\MNG.Persistence\obj\Debug\net8.0\ref\MNG.Persistence.dll

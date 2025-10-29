@@ -1,0 +1,12 @@
+D:\Word_Space\Home\Product\src\MNG.Contract\bin\Debug\net8.0\MNG.Contract.deps.json
+D:\Word_Space\Home\Product\src\MNG.Contract\bin\Debug\net8.0\MNG.Contract.dll
+D:\Word_Space\Home\Product\src\MNG.Contract\bin\Debug\net8.0\MNG.Contract.pdb
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.csproj.AssemblyReference.cache
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.AssemblyInfoInputs.cache
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.AssemblyInfo.cs
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.csproj.CoreCompileInputs.cache
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.dll
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\refint\MNG.Contract.dll
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\MNG.Contract.pdb
+D:\Word_Space\Home\Product\src\MNG.Contract\obj\Debug\net8.0\ref\MNG.Contract.dll
